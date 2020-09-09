@@ -1,3 +1,6 @@
+# idea folder in case of PyCharm
+.idea/
+
 # Logs
 logs
 *.log
